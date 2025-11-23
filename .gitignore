@@ -1,0 +1,3 @@
+# Se ignora el entorno virtual creado para la ejecución de los algoritmos.
+# The virtual enviroment created for the algorithms execution is ignored.
+.venv/
