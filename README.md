@@ -1,2 +1,6 @@
 # Repertorio de Algoritmos
-Colección de algoritmos codificados y con ejemplos ejecutables.
+### Resumen del repositorio
+Aquí encontrarás una colección de algoritmos codificados con ejemplos ejecutables.
+
+### Abstract of repository
+Here is a compilation of coded algorithms with executables examples.
